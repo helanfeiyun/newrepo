@@ -1,2 +1,6 @@
 helanfeiyun.com
+<<<<<<< HEAD
 changed in master branch
+=======
+change_site 1
+>>>>>>> change_site
